@@ -1,0 +1,32 @@
+{
+  "name": "mock-api-server",
+  "version": "1.0.0",
+  "description": "Mock REST APIs exposed for developing http rest client",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srimanivannan/mock-api-server.git"
+  },
+  "keywords": [
+    "mock",
+    "mock-api",
+    "mock-api-server",
+    "rest-api-server"
+  ],
+  "author": "Mani",
+  "bugs": {
+    "url": "https://github.com/srimanivannan/mock-api-server/issues"
+  },
+  "homepage": "https://github.com/srimanivannan/mock-api-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.6"
+  }
+}
