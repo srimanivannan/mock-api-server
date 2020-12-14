@@ -24,7 +24,11 @@ npm start
 
 ### Accessing the endpoints
 ```
-Go to http-client-test folder
+if you are using jetbrain webstorm or intellij idea then,
+Go to http-client-test folder and pull up the test-mock-api-serber.http file and run your scenarios
+
+if not, use vs-code and install http client plugin and then 
+Go to http-client-test folder and pull up the test-mock-api-serber.http file and run your scenarios
 
 ```
 
