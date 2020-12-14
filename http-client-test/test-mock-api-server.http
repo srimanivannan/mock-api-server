@@ -1,0 +1,32 @@
+GET {{contextRoot}}
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+GET {{getStocks}}
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer {{token}}
+
+###
+POST {{postStocks}}
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer {{token}}
+
+< ./add-stocks.json
+
+###
+PUT {{putStocks}}
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer {{token}}
+
+< ./update-stocks.json
+
+###
+DELETE {{deleteStocks}}
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer {{token}}

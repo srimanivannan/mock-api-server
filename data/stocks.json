@@ -1,0 +1,43 @@
+{
+  "stocks": [
+    {
+      "symbol": "IBM",
+      "open": "124.0800",
+      "high": "125.5100",
+      "low": "123.6100",
+      "price": "124.2700",
+      "volume": "4481416",
+      "latest trading day": "2020-12-11",
+      "previous close": "124.9600",
+      "change": "-0.6900",
+      "change percent": "-0.5522%",
+      "id": 1
+    },
+    {
+      "symbol": "AAPL",
+      "open": "878.0800",
+      "high": "989.5100",
+      "low": "867.6100",
+      "price": "934.2700",
+      "volume": "865413467",
+      "latest trading day": "2020-12-13",
+      "previous close": "975.9600",
+      "change": "-0.6900",
+      "change percent": "-0.5522%",
+      "id": 2
+    },
+    {
+      "symbol": "GOOG",
+      "open": "563.0800",
+      "high": "570.5100",
+      "low": "560.6100",
+      "price": "563.2700",
+      "volume": "68956865",
+      "latest trading day": "2020-12-13",
+      "previous close": "556.9600",
+      "change": "-0.6900",
+      "change percent": "-0.5522%",
+      "id": 3
+    }
+  ]
+}
